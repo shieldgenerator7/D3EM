@@ -1,0 +1,13 @@
+The "Equestria Mod.txt" file goes in the data/mods/ folder in the main D3 folder, not the mod folder. I imagine everything else goes in the mod folder in a similar file structure as the actual game files.
+
+The "Equestria Mod" folder contained here is the top level folder for the mod
+
+Most of the files contained in here so far were straight up copied from the USA files from the vanilla game, and not much has been changed from it yet.
+
+Also, when I try running this mod, it crashes the game. I don't know why yet, but I'm studying the Russia mod to figure it out (because that one works).
+
+And I don't know how to edit DDS files yet, will have to do more research on it.
+
+Whenever you make a change to the repository, PLEASE LEAVE A COMMENT ON WHAT YOU DID. This will help make sure everyone is on the same page with what you did. There's a section in the github shell specifically for that purpose
+
+There is a credits.txt somewhere in here. That's where you put resources you gather from people on the internet (for example, the Equestrian flag picture that I used). You can also put your name there under developers for the mod

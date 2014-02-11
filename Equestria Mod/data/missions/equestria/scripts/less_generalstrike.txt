@@ -1,0 +1,1 @@
+CreateGrudge(Equestria,_hidden_,GeneralStrike,-0.18,1,0);

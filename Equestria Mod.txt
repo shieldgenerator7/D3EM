@@ -1,0 +1,7 @@
+[config]
+name = Equestria Mod
+path = Equestria Mod
+guiname = Equestria Mod
+author = shieldgenerator7
+description = This mod adds Equestria to the playable countries list
+
